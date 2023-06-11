@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (text "Add programming connectors in this sheet \n" (at 17.78 19.05 0)
+    (effects (font (size 0.762 0.762)) (justify left bottom))
+    (uuid dca7be02-6ffc-4974-9238-c4f43088d805)
+  )
 )

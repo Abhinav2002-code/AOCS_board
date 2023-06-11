@@ -531,26 +531,26 @@
     (pin "2" (uuid a913089d-2781-4708-bc18-ca1e42c38644))
   )
 
-  (sheet (at 121.92 48.26) (size 17.78 15.24) (fields_autoplaced)
+  (sheet (at 104.14 46.99) (size 17.78 15.24) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 212d50e9-da32-4d3f-8d53-7380f45f0f28)
-    (property "Sheet name" "MCU" (id 0) (at 121.92 47.5484 0)
+    (property "Sheet name" "MCU" (id 0) (at 104.14 46.2784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "MCU.kicad_sch" (id 1) (at 121.92 64.0846 0)
+    (property "Sheet file" "MCU.kicad_sch" (id 1) (at 104.14 62.8146 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
 
-  (sheet (at 73.66 87.63) (size 12.7 5.08) (fields_autoplaced)
+  (sheet (at 74.93 85.09) (size 12.7 5.08) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 4c63012e-f7ed-4767-81b5-36fd3817b900)
-    (property "Sheet name" "Motor_connectors" (id 0) (at 73.66 86.9184 0)
+    (property "Sheet name" "Motor_connectors" (id 0) (at 74.93 84.3784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "Motor_connectors.kicad_sch" (id 1) (at 73.66 93.2946 0)
+    (property "Sheet file" "Motor_connectors.kicad_sch" (id 1) (at 74.93 90.7546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -867,6 +867,18 @@
     )
   )
 
+  (sheet (at 102.235 73.025) (size 3.81 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 90eea1cc-3897-47cb-b6ba-95228c17b7e0)
+    (property "Sheet name" "Mag_connectors" (id 0) (at 102.235 72.3134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Mag_connectors.kicad_sch" (id 1) (at 102.235 86.3096 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 140.97 72.39) (size 34.29 20.32) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 255 46 44 1))
     (fill (color 173 230 255 1.0000))
@@ -920,18 +932,6 @@
     (pin "IN_2_N" input (at 140.97 91.44 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 595d9336-e8e8-4678-80b3-2e82e34fa1a6)
-    )
-  )
-
-  (sheet (at 157.48 54.61) (size 12.7 3.81) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid bfb5174f-75b4-4de7-8dcd-166ce97a61ad)
-    (property "Sheet name" "programming" (id 0) (at 157.48 53.8984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "programming.kicad_sch" (id 1) (at 157.48 59.0046 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
 
@@ -1393,8 +1393,8 @@
     (path "/4c63012e-f7ed-4767-81b5-36fd3817b900" (page "13"))
     (path "/6e8df492-8c59-43fd-94ed-550a415f346a" (page "13"))
     (path "/4d1fba12-6ef0-42d4-9064-f9f362dde9b9" (page "14"))
+    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0" (page "15"))
     (path "/8fa611b7-cf75-4378-bd5d-72096b0e3078" (page "15"))
-    (path "/bfb5174f-75b4-4de7-8dcd-166ce97a61ad" (page "15"))
   )
 
   (symbol_instances
@@ -1945,7 +1945,7 @@
       (reference "CG10") (unit 1) (value "C") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/ff3be686-81d4-4575-9ed4-6dfbe71c9e5e"
-      (reference "CH1") (unit 1) (value "C") (footprint "")
+      (reference "CH1") (unit 1) (value "0.01u") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/47666723-7086-4ebc-972d-c8e3c4484282"
       (reference "CH2") (unit 1) (value "C") (footprint "")
@@ -1969,16 +1969,16 @@
       (reference "CH8") (unit 1) (value "C") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/3d12bbc4-9b26-4015-b2d4-260cbbfdf537"
-      (reference "CH9") (unit 1) (value "C") (footprint "")
+      (reference "CH9") (unit 1) (value "0.01u") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/059bbcee-27cf-4da8-a0a2-ab467b4ebc46"
       (reference "CH10") (unit 1) (value "C") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/0e4dc100-1ace-405c-86cd-663b446e8f15"
-      (reference "CH11") (unit 1) (value "C") (footprint "")
+      (reference "CH11") (unit 1) (value "10u") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/8d00b2b9-ffc0-4200-bdd0-cc0ba84197bc"
-      (reference "CH12") (unit 1) (value "C") (footprint "")
+      (reference "CH12") (unit 1) (value "2.2u") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/d1e06862-e80d-4203-8ad4-d4e5d2f2a4bf"
       (reference "CH13") (unit 1) (value "C") (footprint "")
@@ -1987,16 +1987,16 @@
       (reference "CH14") (unit 1) (value "C") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/15369ae3-b7e8-4b9e-ad97-b758e025dd04"
-      (reference "CH15") (unit 1) (value "C") (footprint "")
+      (reference "CH15") (unit 1) (value "0.01u") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/99ca94b0-0e04-47a0-bc9f-49f0cbc12487"
       (reference "CH16") (unit 1) (value "C") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/6edc97e2-1a4e-452a-a611-945f6942da06"
-      (reference "CH17") (unit 1) (value "C") (footprint "")
+      (reference "CH17") (unit 1) (value "10u") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/79021f8d-f911-4f3e-9a8d-ef5d710af21d"
-      (reference "CH18") (unit 1) (value "C") (footprint "")
+      (reference "CH18") (unit 1) (value "2.2u") (footprint "")
     )
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/cdb6aa5c-566b-4f24-9679-f7b1e64ed563"
       (reference "FB_MM") (unit 1) (value "FerriteBead") (footprint "")
