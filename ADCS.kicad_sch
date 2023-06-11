@@ -324,8 +324,8 @@
   (symbol (lib_id "Device:R") (at 163.83 139.7 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0d4e1e06-ffe5-4f04-a32a-9174e21bce91)
-    (property "Reference" "R?" (id 0) (at 163.83 133.35 90))
-    (property "Value" "R" (id 1) (at 163.83 135.89 90))
+    (property "Reference" "R13" (id 0) (at 163.83 133.35 90))
+    (property "Value" "0" (id 1) (at 163.83 135.89 90))
     (property "Footprint" "" (id 2) (at 163.83 141.478 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -339,8 +339,8 @@
   (symbol (lib_id "Device:R") (at 144.78 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 289afcb6-d4ec-4eeb-afaf-cfda1ec097a3)
-    (property "Reference" "R?" (id 0) (at 144.78 118.11 90))
-    (property "Value" "R" (id 1) (at 144.78 120.65 90))
+    (property "Reference" "R3" (id 0) (at 144.78 118.11 90))
+    (property "Value" "0" (id 1) (at 144.78 120.65 90))
     (property "Footprint" "" (id 2) (at 144.78 126.238 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -354,8 +354,8 @@
   (symbol (lib_id "Device:R") (at 144.78 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 30242e50-78b5-465d-bc75-39f15d5cceaa)
-    (property "Reference" "R?" (id 0) (at 144.78 121.92 90))
-    (property "Value" "R" (id 1) (at 144.78 124.46 90))
+    (property "Reference" "R4" (id 0) (at 144.78 121.92 90))
+    (property "Value" "0" (id 1) (at 144.78 124.46 90))
     (property "Footprint" "" (id 2) (at 144.78 130.048 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -369,8 +369,8 @@
   (symbol (lib_id "Device:R") (at 147.32 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4470b3f9-eb19-45ff-8145-2c039a41205e)
-    (property "Reference" "R?" (id 0) (at 147.32 135.89 90))
-    (property "Value" "R" (id 1) (at 147.32 138.43 90))
+    (property "Reference" "R6" (id 0) (at 147.32 135.89 90))
+    (property "Value" "0" (id 1) (at 147.32 138.43 90))
     (property "Footprint" "" (id 2) (at 147.32 144.018 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -384,8 +384,8 @@
   (symbol (lib_id "Device:R") (at 144.78 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4ac98ca8-d6d2-4512-8f79-eed4b3282fee)
-    (property "Reference" "R?" (id 0) (at 144.78 125.73 90))
-    (property "Value" "R" (id 1) (at 144.78 128.27 90))
+    (property "Reference" "R5" (id 0) (at 144.78 125.73 90))
+    (property "Value" "0" (id 1) (at 144.78 128.27 90))
     (property "Footprint" "" (id 2) (at 144.78 133.858 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -399,8 +399,8 @@
   (symbol (lib_id "Device:R") (at 147.32 149.86 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4fd28366-02b0-4fc9-93ba-ce1146305a15)
-    (property "Reference" "R?" (id 0) (at 147.32 143.51 90))
-    (property "Value" "R" (id 1) (at 147.32 146.05 90))
+    (property "Reference" "R8" (id 0) (at 147.32 143.51 90))
+    (property "Value" "0" (id 1) (at 147.32 146.05 90))
     (property "Footprint" "" (id 2) (at 147.32 151.638 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -414,8 +414,8 @@
   (symbol (lib_id "Device:R") (at 147.32 157.48 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 603b3562-5c73-47af-aecf-42517ddc6d5d)
-    (property "Reference" "R?" (id 0) (at 147.32 151.13 90))
-    (property "Value" "R" (id 1) (at 147.32 153.67 90))
+    (property "Reference" "R10" (id 0) (at 147.32 151.13 90))
+    (property "Value" "0" (id 1) (at 147.32 153.67 90))
     (property "Footprint" "" (id 2) (at 147.32 159.258 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -429,8 +429,8 @@
   (symbol (lib_id "Device:R") (at 163.83 137.16 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6e7a22b0-be0f-4a59-a4d5-bda14bb12e62)
-    (property "Reference" "R?" (id 0) (at 163.83 130.81 90))
-    (property "Value" "R" (id 1) (at 163.83 133.35 90))
+    (property "Reference" "R12" (id 0) (at 163.83 130.81 90))
+    (property "Value" "0" (id 1) (at 163.83 133.35 90))
     (property "Footprint" "" (id 2) (at 163.83 138.938 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -444,8 +444,8 @@
   (symbol (lib_id "Device:R") (at 144.78 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 779ff43c-2333-4b7f-b280-3507dbb485f7)
-    (property "Reference" "R?" (id 0) (at 144.78 114.3 90))
-    (property "Value" "R" (id 1) (at 144.78 116.84 90))
+    (property "Reference" "R2" (id 0) (at 144.78 114.3 90))
+    (property "Value" "0" (id 1) (at 144.78 116.84 90))
     (property "Footprint" "" (id 2) (at 144.78 122.428 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -459,8 +459,8 @@
   (symbol (lib_id "Device:R") (at 147.32 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86b30301-3e95-4771-b684-8ad7e696a856)
-    (property "Reference" "R?" (id 0) (at 147.32 139.7 90))
-    (property "Value" "R" (id 1) (at 147.32 142.24 90))
+    (property "Reference" "R7" (id 0) (at 147.32 139.7 90))
+    (property "Value" "0" (id 1) (at 147.32 142.24 90))
     (property "Footprint" "" (id 2) (at 147.32 147.828 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -474,8 +474,8 @@
   (symbol (lib_id "Device:R") (at 144.78 113.03 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8dfbc5b3-29a4-4eb4-b89d-688121a9bb68)
-    (property "Reference" "R?" (id 0) (at 144.78 106.68 90))
-    (property "Value" "R" (id 1) (at 144.78 109.22 90))
+    (property "Reference" "R1" (id 0) (at 144.78 106.68 90))
+    (property "Value" "0" (id 1) (at 144.78 109.22 90))
     (property "Footprint" "" (id 2) (at 144.78 114.808 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -489,8 +489,8 @@
   (symbol (lib_id "Device:R") (at 147.32 153.67 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid add65a91-80bf-4519-a877-d248e601d3fd)
-    (property "Reference" "R?" (id 0) (at 147.32 147.32 90))
-    (property "Value" "R" (id 1) (at 147.32 149.86 90))
+    (property "Reference" "R9" (id 0) (at 147.32 147.32 90))
+    (property "Value" "0" (id 1) (at 147.32 149.86 90))
     (property "Footprint" "" (id 2) (at 147.32 155.448 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -504,8 +504,8 @@
   (symbol (lib_id "Device:R") (at 144.78 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d8f581f0-f25a-410d-933c-c143d6ed3cc4)
-    (property "Reference" "R?" (id 0) (at 144.78 110.49 90))
-    (property "Value" "R" (id 1) (at 144.78 113.03 90))
+    (property "Reference" "R14" (id 0) (at 144.78 110.49 90))
+    (property "Value" "0" (id 1) (at 144.78 113.03 90))
     (property "Footprint" "" (id 2) (at 144.78 118.618 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -519,8 +519,8 @@
   (symbol (lib_id "Device:R") (at 147.32 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e22912a0-944b-4af7-8b3e-74b267ea91e5)
-    (property "Reference" "R?" (id 0) (at 147.32 154.94 90))
-    (property "Value" "R" (id 1) (at 147.32 157.48 90))
+    (property "Reference" "R11" (id 0) (at 147.32 154.94 90))
+    (property "Value" "0" (id 1) (at 147.32 157.48 90))
     (property "Footprint" "" (id 2) (at 147.32 163.068 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2001,16 +2001,55 @@
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/cdb6aa5c-566b-4f24-9679-f7b1e64ed563"
       (reference "FB_MM") (unit 1) (value "FerriteBead") (footprint "")
     )
+    (path "/8dfbc5b3-29a4-4eb4-b89d-688121a9bb68"
+      (reference "R1") (unit 1) (value "0") (footprint "")
+    )
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/fef450c7-2baf-4865-bb57-66da101150b5"
       (reference "R1") (unit 1) (value "R") (footprint "")
+    )
+    (path "/779ff43c-2333-4b7f-b280-3507dbb485f7"
+      (reference "R2") (unit 1) (value "0") (footprint "")
     )
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/a0971727-faeb-4004-9cb5-1de78a577817"
       (reference "R2") (unit 1) (value "R") (footprint "")
     )
-    (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/0159a2e7-cff6-49e7-8876-11136312e349"
-      (reference "R?") (unit 1) (value "R") (footprint "")
+    (path "/289afcb6-d4ec-4eeb-afaf-cfda1ec097a3"
+      (reference "R3") (unit 1) (value "0") (footprint "")
+    )
+    (path "/30242e50-78b5-465d-bc75-39f15d5cceaa"
+      (reference "R4") (unit 1) (value "0") (footprint "")
+    )
+    (path "/4ac98ca8-d6d2-4512-8f79-eed4b3282fee"
+      (reference "R5") (unit 1) (value "0") (footprint "")
+    )
+    (path "/4470b3f9-eb19-45ff-8145-2c039a41205e"
+      (reference "R6") (unit 1) (value "0") (footprint "")
+    )
+    (path "/86b30301-3e95-4771-b684-8ad7e696a856"
+      (reference "R7") (unit 1) (value "0") (footprint "")
+    )
+    (path "/4fd28366-02b0-4fc9-93ba-ce1146305a15"
+      (reference "R8") (unit 1) (value "0") (footprint "")
+    )
+    (path "/add65a91-80bf-4519-a877-d248e601d3fd"
+      (reference "R9") (unit 1) (value "0") (footprint "")
+    )
+    (path "/603b3562-5c73-47af-aecf-42517ddc6d5d"
+      (reference "R10") (unit 1) (value "0") (footprint "")
+    )
+    (path "/e22912a0-944b-4af7-8b3e-74b267ea91e5"
+      (reference "R11") (unit 1) (value "0") (footprint "")
+    )
+    (path "/6e7a22b0-be0f-4a59-a4d5-bda14bb12e62"
+      (reference "R12") (unit 1) (value "0") (footprint "")
     )
     (path "/0d4e1e06-ffe5-4f04-a32a-9174e21bce91"
+      (reference "R13") (unit 1) (value "0") (footprint "")
+    )
+    (path "/d8f581f0-f25a-410d-933c-c143d6ed3cc4"
+      (reference "R14") (unit 1) (value "0") (footprint "")
+    )
+    (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/0159a2e7-cff6-49e7-8876-11136312e349"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/1544bbd1-3699-464a-9f6a-894583e83a9b"
@@ -2031,16 +2070,10 @@
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/24eb250a-fc47-4450-99c8-2b9edd85d9f6"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/289afcb6-d4ec-4eeb-afaf-cfda1ec097a3"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/2f523346-d38b-4664-b6e4-7d51bed2f2d6"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/2fa66891-f545-497d-ae0d-694b229521f2"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/30242e50-78b5-465d-bc75-39f15d5cceaa"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/32011344-685d-4baf-8324-13d9294c7330"
@@ -2052,19 +2085,7 @@
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/43d30add-d3ee-423e-9f2d-2e2a0b3fc001"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/4470b3f9-eb19-45ff-8145-2c039a41205e"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/4ac98ca8-d6d2-4512-8f79-eed4b3282fee"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/4fd28366-02b0-4fc9-93ba-ce1146305a15"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/51810aaa-ce46-4bd7-80ec-5c04e2e7b8e5"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/603b3562-5c73-47af-aecf-42517ddc6d5d"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/6107035c-8e35-46bc-b7b8-21eb76c6f0dd"
@@ -2079,16 +2100,10 @@
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/688df6d1-6483-422a-9d9c-0d276ca63a52"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/6e7a22b0-be0f-4a59-a4d5-bda14bb12e62"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/6effb95d-7a22-4233-8786-22932da70d3e"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/73ceddf4-7357-4c14-9001-091fea4f6cbf"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/779ff43c-2333-4b7f-b280-3507dbb485f7"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/7cdaa83c-91d4-44e9-8040-c62f1b4fc194"
@@ -2098,12 +2113,6 @@
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/8352f433-f631-4d11-b658-1625adeb2ff5"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/86b30301-3e95-4771-b684-8ad7e696a856"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/8dfbc5b3-29a4-4eb4-b89d-688121a9bb68"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/8f07ed13-0880-40fa-a825-c1624a2578bb"
@@ -2116,9 +2125,6 @@
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/adb2855f-035d-45a0-bcbe-86781d9c7879"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/add65a91-80bf-4519-a877-d248e601d3fd"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/aec88491-7af2-4946-990e-3f71a6119067"
@@ -2154,17 +2160,11 @@
     (path "/ea192a91-d6b2-496f-9935-87312cd8ef80/d61692aa-b450-4bad-90d9-398828e2508f"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/d8f581f0-f25a-410d-933c-c143d6ed3cc4"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/ddebc75e-ccc5-4632-ad0a-b812d4df6a26"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/df06bc17-c4a9-4c86-bfd7-d95a1d9a982e"
       (reference "R?") (unit 1) (value "200m") (footprint "")
-    )
-    (path "/e22912a0-944b-4af7-8b3e-74b267ea91e5"
-      (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/f54366ae-32d9-44cc-80d3-5c8c211c9386"
       (reference "R?") (unit 1) (value "R") (footprint "")
