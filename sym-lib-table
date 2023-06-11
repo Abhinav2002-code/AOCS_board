@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "DRV10970PWPR")(type "KiCad")(uri "${KIPRJMOD}/LIB_DRV10970PWPR/DRV10970PWPR/KiCad/DRV10970PWPR.kicad_sym")(options "")(descr ""))
+  (lib (name "L7983PUR")(type "KiCad")(uri "${KIPRJMOD}/LIB_L7983PUR/L7983PUR.kicad_sym")(options "")(descr ""))
+  (lib (name "ST1S06PUR")(type "KiCad")(uri "${KIPRJMOD}/LIB_ST1S06PUR/ST1S06PUR.kicad_sym")(options "")(descr ""))
 )
