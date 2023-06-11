@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV10970PWPR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=25
+Version=1.1
+Released=2018-07-01 11:15:18
+Downloaded=2023-06-11 10:52:43
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV10970PWPR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-07-01-10:46:33)
+    (mountForm default
+        (footprintRef "SOP65P640X120-25N")
+        (spec "System")
+    )
+)
