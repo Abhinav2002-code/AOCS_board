@@ -823,12 +823,13 @@
     (uuid fc06a2fd-9cec-4929-9b6d-4bac0ce6d3d6)
   )
 
-  (text "This needs to generate 5 V \nnot 3V3\n" (at 143.51 69.85 0)
+  (text "This is generating 5V. It was a typo\nOnce verify with the pdf I sent"
+    (at 200.025 43.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid e2184721-5a03-4c38-b52d-ec3d1798e784)
+    (uuid 714ea37c-b55f-4885-badf-eeca5020a4dd)
   )
 
-  (label "3.3V" (at 196.85 27.94 180)
+  (label "5V" (at 196.85 27.94 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 00f6bd08-e7f8-4891-bd86-2199e56e225f)
   )
