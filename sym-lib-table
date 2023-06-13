@@ -5,4 +5,5 @@
   (lib (name "ECS-80-8-30Q-VY-TR")(type "KiCad")(uri "${KIPRJMOD}/LIB_ECS-80-8-30Q-VY-TR/ECS-80-8-30Q-VY-TR.kicad_sym")(options "")(descr ""))
   (lib (name "DRV10970PWPR")(type "KiCad")(uri "${KIPRJMOD}/LIB_DRV10970PWPR/DRV10970PWPR.kicad_sym")(options "")(descr ""))
   (lib (name "STM32H725ZGT6")(type "KiCad")(uri "${KIPRJMOD}/LIB_STM32H725ZGT6/STM32H725ZGT6.kicad_sym")(options "")(descr ""))
+  (lib (name "2367196-8")(type "KiCad")(uri "${KIPRJMOD}/LIB_2367196-8/2367196-8.kicad_sym")(options "")(descr ""))
 )
