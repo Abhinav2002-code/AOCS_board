@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP DRV10970PWPR
-D 20W, 12V 3-phase sensored BLDC motor driver with single/3halls supported
-K
-F http://www.ti.com/lit/gpn/drv10970
-$ENDCMP
-#
-#End Doc Library

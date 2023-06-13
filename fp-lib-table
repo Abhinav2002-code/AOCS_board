@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "ABS05W-32.768KHZ-D-2-T")(type "KiCad")(uri "${KIPRJMOD}/LIB_ABS05W-32.768KHZ-D-2-T/ABS05W-32.768KHZ-D-2-T.pretty")(options "")(descr ""))
+  (lib (name "DRV10970PWPR")(type "KiCad")(uri "${KIPRJMOD}/LIB_DRV10970PWPR/DRV10970PWPR.pretty")(options "")(descr ""))
+  (lib (name "ECS-80-8-30Q-VY-TR")(type "KiCad")(uri "${KIPRJMOD}/LIB_ECS-80-8-30Q-VY-TR/ECS-80-8-30Q-VY-TR.pretty")(options "")(descr ""))
+  (lib (name "L7983PUR")(type "KiCad")(uri "${KIPRJMOD}/LIB_L7983PUR/L7983PUR.pretty")(options "")(descr ""))
+  (lib (name "ST1S06PUR")(type "KiCad")(uri "${KIPRJMOD}/LIB_ST1S06PUR/ST1S06PUR.pretty")(options "")(descr ""))
+  (lib (name "STM32H725ZGT6")(type "KiCad")(uri "${KIPRJMOD}/LIB_STM32H725ZGT6/STM32H725ZGT6.pretty")(options "")(descr ""))
+)
