@@ -1807,6 +1807,12 @@
     (path "/6e8df492-8c59-43fd-94ed-550a415f346a/6fc4f706-aceb-4ff1-9cfd-2d690eeda7bc"
       (reference "#PWR0235") (unit 1) (value "GND") (footprint "")
     )
+    (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/a02550f7-5d68-4f7f-af17-7aa7f6409e6f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/fea6d1c0-dee6-47b2-b0b8-fa7833396fbd"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/09e9f576-75ea-4b13-ba60-52e7e8cae27e"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
@@ -2100,6 +2106,12 @@
     )
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/cdb6aa5c-566b-4f24-9679-f7b1e64ed563"
       (reference "FB_MM") (unit 1) (value "FerriteBead") (footprint "")
+    )
+    (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/5a4d0885-f802-4809-937e-cc70e3facb74"
+      (reference "J?") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "")
+    )
+    (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/7084612d-5a08-4e97-89ef-7cbc66cf7be0"
+      (reference "J?") (unit 1) (value "Conn_ARM_JTAG_SWD_20") (footprint "")
     )
     (path "/fb0a46e4-ada8-472b-b73c-3a0177e61b01/040b25b0-64c7-4a70-90d2-36dfea29792e"
       (reference "L?") (unit 1) (value "39u") (footprint "")
