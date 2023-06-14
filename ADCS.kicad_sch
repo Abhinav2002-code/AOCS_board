@@ -1911,6 +1911,9 @@
     (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/fea6d1c0-dee6-47b2-b0b8-fa7833396fbd"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/97b0376d-5e31-4799-8ac2-967241c2ba78"
+      (reference "?") (unit 1) (value "M95P32-IXMNT_E") (footprint "")
+    )
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/09e9f576-75ea-4b13-ba60-52e7e8cae27e"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
