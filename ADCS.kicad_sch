@@ -1045,7 +1045,7 @@
 
   (sheet (at 68.58 60.96) (size 17.78 55.88) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 122 255 253 1.0000))
     (uuid 4c63012e-f7ed-4767-81b5-36fd3817b900)
     (property "Sheet name" "Motor_connectors" (id 0) (at 68.58 60.2484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1133,7 +1133,7 @@
 
   (sheet (at 259.08 74.93) (size 12.7 21.59)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 255 235 87 1.0000))
     (uuid 4d1fba12-6ef0-42d4-9064-f9f362dde9b9)
     (property "Sheet name" "Torquer_connectors" (id 0) (at 259.08 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1329,7 +1329,7 @@
 
   (sheet (at 101.6 106.68) (size 12.7 63.5) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 173 255 71 1.0000))
     (uuid 7a353e73-f362-4813-b2c3-9e73ce7ee8de)
     (property "Sheet name" "SS_Connector" (id 0) (at 101.6 105.9684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1437,7 +1437,7 @@
 
   (sheet (at 29.21 110.49) (size 21.59 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 122 255 253 1.0000))
     (uuid 81963baf-ad38-4473-b60a-1288af35a735)
     (property "Sheet name" "DRV3" (id 0) (at 29.21 109.7784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1501,7 +1501,7 @@
 
   (sheet (at 29.21 46.99) (size 21.59 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 122 255 253 1.0000))
     (uuid 85fce53c-db5d-41a5-af86-f02ad1af70e7)
     (property "Sheet name" "DRV1" (id 0) (at 29.21 46.2784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1577,7 +1577,7 @@
 
   (sheet (at 113.03 71.12) (size 12.7 21.59) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 173 230 255 1.0000))
     (uuid 90eea1cc-3897-47cb-b6ba-95228c17b7e0)
     (property "Sheet name" "Mag_connectors" (id 0) (at 113.03 70.4084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1669,7 +1669,7 @@
 
   (sheet (at 201.93 134.62) (size 12.7 10.16) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 255 162 153 1.0000))
     (uuid d4a8a6ce-f395-4acf-bdcf-7bf2ed2e62a1)
     (property "Sheet name" "Gyro" (id 0) (at 201.93 133.9084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1829,7 +1829,7 @@
 
   (sheet (at 123.19 106.68) (size 19.685 64.77) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 178 255 136 1.0000))
     (uuid ea192a91-d6b2-496f-9935-87312cd8ef80)
     (property "Sheet name" "SS_opamp" (id 0) (at 123.19 105.9684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2069,7 +2069,7 @@
 
   (sheet (at 29.21 77.47) (size 21.59 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 122 255 253 1.0000))
     (uuid fb523a28-acf2-481a-a2e8-d33223f325a3)
     (property "Sheet name" "DRV2" (id 0) (at 29.21 76.7584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
