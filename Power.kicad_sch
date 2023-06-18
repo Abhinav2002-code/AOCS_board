@@ -858,13 +858,8 @@
     (effects (font (size 1.778 1.778)) (justify left bottom))
     (uuid 6b4218d5-26d2-4284-b7b6-12ff58ab1008)
   )
-  (text "We need Motor power to\nbe above 5 V say 5.2 or 5.5 \n"
-    (at 64.77 177.8 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ffc444df-7072-492a-b48c-1dac36721280)
-  )
 
-  (label "5V" (at 150.495 128.27 180)
+  (label "5V3" (at 150.495 128.27 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 00f6bd08-e7f8-4891-bd86-2199e56e225f)
   )
