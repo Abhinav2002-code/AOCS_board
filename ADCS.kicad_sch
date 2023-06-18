@@ -761,6 +761,10 @@
     (effects (font (size 0.508 0.508)) (justify left bottom))
     (uuid 1935e597-a467-43db-a0c6-fa860e6ec88f)
   )
+  (text "Sheet designator M\n" (at 110.49 91.44 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1c7a1fa1-f495-46b3-bd52-e4e8f160075f)
+  )
   (text "Sheet desig : A\n\n" (at 29.21 76.2 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 23c806f2-05b7-4169-b230-34c27e2280c1)
@@ -786,9 +790,17 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6ad7d163-2048-4abb-b130-63bf18efcbd6)
   )
+  (text "sheet designator IB \n" (at 146.05 15.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7c2b6807-025a-45c9-8b18-5d64e3fd310c)
+  )
   (text "sheet desig G\n\n" (at 144.145 99.06 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8e24d05b-f900-4fcc-b212-8ba480356f41)
+  )
+  (text "sheet designator MC\n" (at 95.25 68.58 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a183cf74-f37d-451e-9091-38946424a69d)
   )
   (text "sheet desig E\n" (at 156.21 178.435 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -823,7 +835,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid f59438ff-5130-490f-88c9-3f46a99fc55a)
   )
-  (text "sheet desig H\n" (at 201.295 100.965 0)
+  (text "sheet desig H\n" (at 218.44 99.06 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fcf28c0b-c89c-449f-aa12-b874a262ebee)
   )
@@ -2977,17 +2989,17 @@
     (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/5a4d0885-f802-4809-937e-cc70e3facb74"
       (reference "J1") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "")
     )
-    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/4258d828-95d7-4ac0-9c18-738f3bf4ca4e"
-      (reference "JB1") (unit 1) (value "502352-0210") (footprint "")
-    )
-    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/85986521-380c-46b6-84df-2f18d65ade2d"
-      (reference "JB2") (unit 1) (value "502352-0210") (footprint "")
-    )
-    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/751c002d-c9ed-4f6f-bf56-77d36fe6f8f9"
-      (reference "JB3") (unit 1) (value "502352-0210") (footprint "")
-    )
     (path "/8fa611b7-cf75-4378-bd5d-72096b0e3078/97355b07-3b0f-4286-b37c-a4c08e6a759a"
       (reference "JIB") (unit 1) (value "2367196-8") (footprint "")
+    )
+    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/4258d828-95d7-4ac0-9c18-738f3bf4ca4e"
+      (reference "JM1") (unit 1) (value "502352-0210") (footprint "")
+    )
+    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/85986521-380c-46b6-84df-2f18d65ade2d"
+      (reference "JM2") (unit 1) (value "502352-0210") (footprint "")
+    )
+    (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/751c002d-c9ed-4f6f-bf56-77d36fe6f8f9"
+      (reference "JM3") (unit 1) (value "502352-0210") (footprint "")
     )
     (path "/7a353e73-f362-4813-b2c3-9e73ce7ee8de/c0b6aae2-d2fb-4c24-8018-c87793aa0bc5"
       (reference "JSC1") (unit 1) (value "2367196-8") (footprint "")
