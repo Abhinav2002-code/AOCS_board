@@ -1244,6 +1244,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 19f64e08-945e-4799-aa08-ee7a7fc72ceb)
   )
+  (text "FERRITE YET TBD" (at 167.64 143.51 0)
+    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
+    (uuid 5bae1908-b735-4098-ba41-fbc5616dc7b3)
+  )
   (text "before finalising capacitors \nsimulate the PDN on SPICE to ensure \nthere isnt any ringing because of unintentional \ntank formation\n"
     (at 232.41 26.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

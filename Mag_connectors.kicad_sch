@@ -221,6 +221,16 @@
     (uuid e8b6ecaa-f05e-4168-87ae-812d5a75facd)
   )
 
+  (text "Check hmc 1051 \npinout, \nlets keep two test \npoints for the offset strap \n"
+    (at 154.94 76.2 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 253faf63-583d-4ff4-a36d-351b24906890)
+  )
+  (text "We need 8 pin connector here \n" (at 154.94 67.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5a7cabcd-4941-48e3-ad53-4c36808ab581)
+  )
+
   (hierarchical_label "IN_3_P" (shape output) (at 105.41 135.89 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1ccf3f4f-024f-4021-af74-21ce0f0844a8)
