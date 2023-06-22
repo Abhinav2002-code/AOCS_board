@@ -51,7 +51,6 @@
     )
   )
 
-
   (junction (at 179.07 154.94) (diameter 0) (color 0 0 0 0)
     (uuid 0702067e-022b-43ec-9a66-e5ad575163c5)
   )
@@ -1124,6 +1123,10 @@
   (text "Sheet desig : A\n\n" (at 23.495 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 23c806f2-05b7-4169-b230-34c27e2280c1)
+  )
+  (text "What about these??" (at 196.85 65.405 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold italic) (justify left bottom))
+    (uuid 29f609b7-d471-4bce-9cc0-cb3ffb873d44)
   )
   (text "Sheet Designator R\n" (at 63.5 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
