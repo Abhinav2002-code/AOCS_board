@@ -1007,7 +1007,7 @@
   (symbol (lib_id "DRV10970PWPR:DRV10970PWPR") (at 130.81 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aedfc14a-dbdc-4ab5-9b95-b1b3788f7bc7)
-    (property "Reference" "UA3" (id 0) (at 146.05 63.5 0))
+    (property "Reference" "UC1" (id 0) (at 146.05 63.5 0))
     (property "Value" "DRV10970PWPR" (id 1) (at 146.05 66.04 0))
     (property "Footprint" "DRV10970PWPR:SOP65P640X120-25N" (id 2) (at 130.81 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
