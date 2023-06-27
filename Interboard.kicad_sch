@@ -200,6 +200,10 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold italic) (justify left bottom))
     (uuid 7e8b859c-0225-45d8-80c3-a61b628d7e4e)
   )
+  (text "Chinmay : CHcek if theres a 4th line for SPI " (at 165.1 66.04 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f727d569-1107-4f41-ae9c-26e955a499f9)
+  )
 
   (hierarchical_label "5V" (shape bidirectional) (at 149.225 78.74 0)
     (effects (font (size 1.27 1.27)) (justify left))
