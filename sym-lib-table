@@ -7,4 +7,5 @@
   (lib (name "STM32H725ZGT6")(type "KiCad")(uri "${KIPRJMOD}/LIB_STM32H725ZGT6/STM32H725ZGT6.kicad_sym")(options "")(descr ""))
   (lib (name "2367196-8")(type "KiCad")(uri "${KIPRJMOD}/LIB_2367196-8/2367196-8.kicad_sym")(options "")(descr ""))
   (lib (name "1-2367196-0")(type "KiCad")(uri "${KIPRJMOD}/LIB_1-2367196-0/1-2367196-0.kicad_sym")(options "")(descr ""))
+  (lib (name "NUF8402MNT4G")(type "KiCad")(uri "${KIPRJMOD}/LIB_NUF8402MNT4G/NUF8402MNT4G.kicad_sym")(options "")(descr ""))
 )
