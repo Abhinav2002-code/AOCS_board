@@ -1173,10 +1173,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 32cb80fc-5856-4ddf-a3fc-9faf095c67db)
   )
-  (text "What about IN_4_P & N in \nADCS_HMC1051 schematic" (at 19.05 241.3 0)
-    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
-    (uuid 348d6d0d-86ca-46ed-8b16-7db0ae781d71)
-  )
   (text "sheet desig D\n" (at 147.32 260.35 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 45c85712-9626-4739-a6e9-a13fa6a3b598)
@@ -1197,34 +1193,17 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7c2b6807-025a-45c9-8b18-5d64e3fd310c)
   )
-  (text "chinmay : fanout to TP \n" (at 20.32 243.84 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 8d87e643-928a-4226-aa78-4223ed571e73)
-  )
   (text "sheet desig G\n\n" (at 294.005 236.855 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8e24d05b-f900-4fcc-b212-8ba480356f41)
-  )
-  (text "Chinmay: ESD Diodes\n" (at 143.51 163.83 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 9fa8912a-4430-4787-b27a-f2a892ff8ccc)
-  )
-  (text "CHANGED THE I2C FROM sunsensor to I2C3\ncheck once\n"
-    (at 19.05 229.87 0)
-    (effects (font (size 2.54 2.54) (thickness 0.254) bold) (justify left bottom))
-    (uuid a0d5aac3-412e-4f7d-bf8e-1b60bf5df22b)
   )
   (text "sheet designator MC\n" (at 205.105 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a183cf74-f37d-451e-9091-38946424a69d)
   )
-  (text "TESTPOINT has 2.00mm diameter" (at 18.415 220.345 0)
+  (text "TESTPOINT has 2.00mm diameter" (at 17.78 214.63 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid baa11944-703d-483b-abc2-53390544ee44)
-  )
-  (text "Abhinav : Done" (at 20.32 245.745 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid c5829df2-c354-4200-8b25-2dbe622c6bd1)
   )
   (text "sheet desig E\n" (at 181.61 260.985 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -4291,9 +4270,6 @@
     (path "/fb0a46e4-ada8-472b-b73c-3a0177e61b01/7f83e567-8183-4c36-9e45-ab049c248a4e"
       (reference "CP9") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/cdb6aa5c-566b-4f24-9679-f7b1e64ed563"
-      (reference "FBG1") (unit 1) (value "FerriteBead") (footprint "")
-    )
     (path "/90eea1cc-3897-47cb-b6ba-95228c17b7e0/2603eb9b-6e9b-417a-8f50-c76a9c1fc121"
       (reference "JG1") (unit 1) (value "2367196-8") (footprint "2367196-8:23671968")
     )
@@ -4627,6 +4603,9 @@
     (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/84dc93ad-9e27-4e50-8f29-13dbfdc465cb"
       (reference "RG24") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/b4c90727-15f5-4941-82de-f0f877fab708"
+      (reference "RGFB") (unit 1) (value "0") (footprint "")
+    )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/b0f64d7e-8a6b-4dd9-95d8-c778258b36b2"
       (reference "RH1") (unit 1) (value "200m") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
@@ -4652,16 +4631,16 @@
       (reference "RH8") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/a5c74e62-a747-456c-bd04-11b478638dd8"
-      (reference "RH9") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH9") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/7cdaa83c-91d4-44e9-8040-c62f1b4fc194"
-      (reference "RH10") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH10") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/688df6d1-6483-422a-9d9c-0d276ca63a52"
-      (reference "RH11") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH11") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/1d29033a-a65d-4d4d-adc4-71b782677bbf"
-      (reference "RH12") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH12") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/f54366ae-32d9-44cc-80d3-5c8c211c9386"
       (reference "RH13") (unit 1) (value "200m") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -4670,16 +4649,16 @@
       (reference "RH14") (unit 1) (value "200m") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/2f523346-d38b-4664-b6e4-7d51bed2f2d6"
-      (reference "RH15") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH15") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/adb2855f-035d-45a0-bcbe-86781d9c7879"
-      (reference "RH16") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH16") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/ddebc75e-ccc5-4632-ad0a-b812d4df6a26"
-      (reference "RH17") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH17") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e17995dd-10f0-48f3-8f39-76f49c739fd3/c39cd0bf-3a01-4bb5-8be7-8046ee900eed"
-      (reference "RH18") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "RH18") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/332e829a-4c38-40bb-88a0-7370185d5cc0"
       (reference "RMC1") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
