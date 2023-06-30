@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\parikshit\ADCS board\AOCS\ADCS.kicad_sch</source>
-    <date>28-06-2023 14:07:56</date>
+    <date>30-06-2023 12:07:49</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -528,17 +528,9 @@
       <sheetpath names="/ADCS_HMC1051_transducer/" tstamps="/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/"/>
       <tstamps>cae44c54-11a6-45a1-97fb-09d151dd9d09</tstamps>
     </comp>
-    <comp ref="FBG1">
-      <value>FerriteBead</value>
-      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
-      <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
-      <property name="Sheetfile" value="HMC1051.kicad_sch"/>
-      <sheetpath names="/ADCS_HMC1051_transducer/" tstamps="/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/"/>
-      <tstamps>cdb6aa5c-566b-4f24-9679-f7b1e64ed563</tstamps>
-    </comp>
     <comp ref="RG1">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -547,7 +539,7 @@
     </comp>
     <comp ref="RG2">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -556,7 +548,7 @@
     </comp>
     <comp ref="RG3">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -565,7 +557,7 @@
     </comp>
     <comp ref="RG4">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -574,7 +566,7 @@
     </comp>
     <comp ref="RG5">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -583,7 +575,7 @@
     </comp>
     <comp ref="RG6">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -592,7 +584,7 @@
     </comp>
     <comp ref="RG7">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -601,7 +593,7 @@
     </comp>
     <comp ref="RG8">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -610,7 +602,7 @@
     </comp>
     <comp ref="RG9">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -619,7 +611,7 @@
     </comp>
     <comp ref="RG10">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -628,7 +620,7 @@
     </comp>
     <comp ref="RG11">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -637,7 +629,7 @@
     </comp>
     <comp ref="RG12">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -646,7 +638,7 @@
     </comp>
     <comp ref="RG13">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -655,7 +647,7 @@
     </comp>
     <comp ref="RG14">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -664,7 +656,7 @@
     </comp>
     <comp ref="RG15">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -673,7 +665,7 @@
     </comp>
     <comp ref="RG16">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -682,7 +674,7 @@
     </comp>
     <comp ref="RG17">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -691,7 +683,7 @@
     </comp>
     <comp ref="RG18">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -700,7 +692,7 @@
     </comp>
     <comp ref="RG19">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -709,7 +701,7 @@
     </comp>
     <comp ref="RG20">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -718,7 +710,7 @@
     </comp>
     <comp ref="RG21">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -727,7 +719,7 @@
     </comp>
     <comp ref="RG22">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -736,7 +728,7 @@
     </comp>
     <comp ref="RG23">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
@@ -745,12 +737,21 @@
     </comp>
     <comp ref="RG24">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
       <sheetpath names="/ADCS_HMC1051_transducer/" tstamps="/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/"/>
       <tstamps>84dc93ad-9e27-4e50-8f29-13dbfdc465cb</tstamps>
+    </comp>
+    <comp ref="RGFB1">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
+      <property name="Sheetfile" value="HMC1051.kicad_sch"/>
+      <sheetpath names="/ADCS_HMC1051_transducer/" tstamps="/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/"/>
+      <tstamps>b4c90727-15f5-4941-82de-f0f877fab708</tstamps>
     </comp>
     <comp ref="TPG1">
       <value>TestPoint</value>
@@ -781,15 +782,17 @@
     </comp>
     <comp ref="UG1">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
       <property name="Sheetfile" value="HMC1051.kicad_sch"/>
       <sheetpath names="/ADCS_HMC1051_transducer/" tstamps="/bada602b-dbd3-4fb8-afdd-ed6e71e7ad90/"/>
-      <tstamps>cd4ab412-22c4-4874-bd1d-516369d3404a 31dfdac5-a6c6-4f84-8247-5fe0f6abd872 644194a4-9b69-4b52-b303-dba437ce89e4 b5741dc6-37eb-402c-9ce6-c5a38813392a 137962f9-d45f-40a6-8629-d9fd2be3d254</tstamps>
+      <tstamps>cd4ab412-22c4-4874-bd1d-516369d3404a 644194a4-9b69-4b52-b303-dba437ce89e4 31dfdac5-a6c6-4f84-8247-5fe0f6abd872 b5741dc6-37eb-402c-9ce6-c5a38813392a 137962f9-d45f-40a6-8629-d9fd2be3d254</tstamps>
     </comp>
     <comp ref="UG2">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADCS_HMC1051_transducer"/>
@@ -990,6 +993,7 @@
     </comp>
     <comp ref="JMC1">
       <value>Conn_ARM_JTAG_SWD_10</value>
+      <footprint>SamacSys_Parts:FTSH10501LDVK</footprint>
       <datasheet>http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</datasheet>
       <libsource lib="Connector" part="Conn_ARM_JTAG_SWD_10" description="Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface"/>
       <property name="Sheetname" value="MCU"/>
@@ -1071,6 +1075,7 @@
     </comp>
     <comp ref="SWMC1">
       <value>SW_SPDT</value>
+      <footprint>Button_Switch_THT:SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6</footprint>
       <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
       <property name="Sheetname" value="MCU"/>
       <property name="Sheetfile" value="MCU.kicad_sch"/>
@@ -1108,6 +1113,7 @@
     </comp>
     <comp ref="UMC3">
       <value>M95P32-IXMNT_E</value>
+      <footprint>M95P32-IXMNT_E:SOIC127P600X175-8N</footprint>
       <fields>
         <field name="Datasheet_1">https://www.st.com/resource/en/datasheet/m95p32-i.pdf</field>
         <field name="Footprint_1">SOIC127P600X175-8N</field>
@@ -1623,6 +1629,7 @@
     </comp>
     <comp ref="UD1">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="SS_opamp"/>
@@ -1632,6 +1639,7 @@
     </comp>
     <comp ref="UD2">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="SS_opamp"/>
@@ -1641,6 +1649,7 @@
     </comp>
     <comp ref="UD3">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="SS_opamp"/>
@@ -1650,6 +1659,7 @@
     </comp>
     <comp ref="UD4">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="SS_opamp"/>
@@ -1659,6 +1669,7 @@
     </comp>
     <comp ref="UD5">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="SS_opamp"/>
@@ -1668,6 +1679,7 @@
     </comp>
     <comp ref="UD6">
       <value>LMV324</value>
+      <footprint>LMV324AQDRQ1:SOIC127P600X175-14N</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv324.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="LMV324" description="Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14"/>
       <property name="Sheetname" value="SS_opamp"/>
@@ -1695,7 +1707,7 @@
     </comp>
     <comp ref="CH3">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1704,7 +1716,7 @@
     </comp>
     <comp ref="CH4">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1731,7 +1743,7 @@
     </comp>
     <comp ref="CH7">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1740,7 +1752,7 @@
     </comp>
     <comp ref="CH8">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1767,7 +1779,7 @@
     </comp>
     <comp ref="CH11">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1776,7 +1788,7 @@
     </comp>
     <comp ref="CH12">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1794,7 +1806,7 @@
     </comp>
     <comp ref="CH14">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1821,7 +1833,7 @@
     </comp>
     <comp ref="CH17">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1830,7 +1842,7 @@
     </comp>
     <comp ref="CH18">
       <value>C</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1875,7 +1887,7 @@
     </comp>
     <comp ref="RH5">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1884,7 +1896,7 @@
     </comp>
     <comp ref="RH6">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1893,7 +1905,7 @@
     </comp>
     <comp ref="RH7">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1902,7 +1914,7 @@
     </comp>
     <comp ref="RH8">
       <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1910,7 +1922,7 @@
       <tstamps>6107035c-8e35-46bc-b7b8-21eb76c6f0dd</tstamps>
     </comp>
     <comp ref="RH9">
-      <value>R</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
@@ -1919,7 +1931,7 @@
       <tstamps>a5c74e62-a747-456c-bd04-11b478638dd8</tstamps>
     </comp>
     <comp ref="RH10">
-      <value>R</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
@@ -1928,7 +1940,7 @@
       <tstamps>7cdaa83c-91d4-44e9-8040-c62f1b4fc194</tstamps>
     </comp>
     <comp ref="RH11">
-      <value>R</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
@@ -1937,7 +1949,7 @@
       <tstamps>688df6d1-6483-422a-9d9c-0d276ca63a52</tstamps>
     </comp>
     <comp ref="RH12">
-      <value>R</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
@@ -1964,8 +1976,8 @@
       <tstamps>f606dab7-2e02-4fc6-8da7-a96f1fce9f37</tstamps>
     </comp>
     <comp ref="RH15">
-      <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1973,8 +1985,8 @@
       <tstamps>2f523346-d38b-4664-b6e4-7d51bed2f2d6</tstamps>
     </comp>
     <comp ref="RH16">
-      <value>R</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
       <property name="Sheetfile" value="H_bridge.kicad_sch"/>
@@ -1982,7 +1994,7 @@
       <tstamps>adb2855f-035d-45a0-bcbe-86781d9c7879</tstamps>
     </comp>
     <comp ref="RH17">
-      <value>R</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
@@ -1991,7 +2003,7 @@
       <tstamps>ddebc75e-ccc5-4632-ad0a-b812d4df6a26</tstamps>
     </comp>
     <comp ref="RH18">
-      <value>R</value>
+      <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="H_bridge"/>
@@ -2894,6 +2906,7 @@
     </comp>
     <comp ref="UE1">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADC"/>
@@ -2903,6 +2916,7 @@
     </comp>
     <comp ref="UE2">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADC"/>
@@ -2912,6 +2926,7 @@
     </comp>
     <comp ref="UE3">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADC"/>
@@ -2921,6 +2936,7 @@
     </comp>
     <comp ref="UE4">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADC"/>
@@ -2930,6 +2946,7 @@
     </comp>
     <comp ref="UE5">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADC"/>
@@ -2939,6 +2956,7 @@
     </comp>
     <comp ref="UE6">
       <value>MCP3424</value>
+      <footprint>MCP3424-E_SL:SOIC127P600X175-14N</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
       <libsource lib="Analog_ADC" part="MCP3424" description="4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference"/>
       <property name="Sheetname" value="ADC"/>
@@ -3600,24 +3618,6 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="FerriteBead">
-      <description>Ferrite bead</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Inductor_*</fp>
-        <fp>L_*</fp>
-        <fp>*Ferrite*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">FB</field>
-        <field name="Value">FerriteBead</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>
@@ -4367,11 +4367,11 @@
       <node ref="CG10" pin="1" pintype="passive"/>
       <node ref="CG8" pin="1" pintype="passive"/>
       <node ref="CG9" pin="1" pintype="passive"/>
-      <node ref="FBG1" pin="2" pintype="passive"/>
       <node ref="RG1" pin="1" pintype="passive"/>
       <node ref="RG23" pin="1" pintype="passive"/>
       <node ref="RG3" pin="1" pintype="passive"/>
       <node ref="RG5" pin="1" pintype="passive"/>
+      <node ref="RGFB1" pin="2" pintype="passive"/>
       <node ref="UG1" pin="4" pinfunction="V+" pintype="power_in"/>
     </net>
     <net code="51" name="/BRK1">
@@ -4827,10 +4827,10 @@
       <node ref="CG5" pin="1" pintype="passive"/>
       <node ref="CG6" pin="1" pintype="passive"/>
       <node ref="CG7" pin="1" pintype="passive"/>
-      <node ref="FBG1" pin="1" pintype="passive"/>
       <node ref="JG1" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="JG2" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="JG3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RGFB1" pin="1" pintype="passive"/>
       <node ref="RP6" pin="2" pintype="passive"/>
       <node ref="UG2" pin="6" pinfunction="Vdd" pintype="power_in"/>
     </net>
@@ -5135,8 +5135,8 @@
       <node ref="JG3" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="JG3" pin="MP1" pinfunction="MP1" pintype="passive"/>
       <node ref="JG3" pin="MP2" pinfunction="MP2" pintype="passive"/>
-      <node ref="JIB1" pin="10" pinfunction="10" pintype="passive"/>
-      <node ref="JIB1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="JIB1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JIB1" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="JIB1" pin="MP1" pinfunction="MP1" pintype="passive"/>
       <node ref="JIB1" pin="MP2" pinfunction="MP2" pintype="passive"/>
       <node ref="JMC1" pin="3" pinfunction="GND" pintype="power_in"/>
@@ -5344,7 +5344,6 @@
     <net code="201" name="Net-(CG1-Pad2)">
       <node ref="CG1" pin="2" pintype="passive"/>
       <node ref="RG19" pin="2" pintype="passive"/>
-      <node ref="TPG3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="UG1" pin="1" pintype="output"/>
       <node ref="UG2" pin="1" pinfunction="CH1+" pintype="input"/>
     </net>
@@ -5369,6 +5368,7 @@
     <net code="205" name="Net-(CG3-Pad2)">
       <node ref="CG3" pin="2" pintype="passive"/>
       <node ref="RG21" pin="2" pintype="passive"/>
+      <node ref="TPG3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="UG1" pin="14" pintype="output"/>
       <node ref="UG2" pin="13" pinfunction="CH4+" pintype="input"/>
     </net>
@@ -5427,32 +5427,32 @@
       <node ref="JIB1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="UIB1" pin="1" pinfunction="FILTER_1_1" pintype="passive"/>
     </net>
-    <net code="218" name="Net-(JIB1-Pad2)">
-      <node ref="JIB1" pin="2" pinfunction="2" pintype="passive"/>
+    <net code="218" name="Net-(JIB1-Pad3)">
+      <node ref="JIB1" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="UIB1" pin="2" pinfunction="FILTER_2_1" pintype="passive"/>
     </net>
-    <net code="219" name="Net-(JIB1-Pad3)">
-      <node ref="JIB1" pin="3" pinfunction="3" pintype="passive"/>
+    <net code="219" name="Net-(JIB1-Pad5)">
+      <node ref="JIB1" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="UIB1" pin="3" pinfunction="FILTER_3_1" pintype="passive"/>
     </net>
-    <net code="220" name="Net-(JIB1-Pad4)">
-      <node ref="JIB1" pin="4" pinfunction="4" pintype="passive"/>
+    <net code="220" name="Net-(JIB1-Pad6)">
+      <node ref="JIB1" pin="6" pinfunction="6" pintype="passive"/>
       <node ref="UIB1" pin="4" pinfunction="FILTER_4_1" pintype="passive"/>
     </net>
-    <net code="221" name="Net-(JIB1-Pad5)">
-      <node ref="JIB1" pin="5" pinfunction="5" pintype="passive"/>
+    <net code="221" name="Net-(JIB1-Pad7)">
+      <node ref="JIB1" pin="7" pinfunction="7" pintype="passive"/>
       <node ref="UIB1" pin="5" pinfunction="FILTER_5_1" pintype="passive"/>
     </net>
-    <net code="222" name="Net-(JIB1-Pad6)">
-      <node ref="JIB1" pin="6" pinfunction="6" pintype="passive"/>
+    <net code="222" name="Net-(JIB1-Pad8)">
+      <node ref="JIB1" pin="8" pinfunction="8" pintype="passive"/>
       <node ref="UIB1" pin="6" pinfunction="FILTER_6_1" pintype="passive"/>
     </net>
-    <net code="223" name="Net-(JIB1-Pad7)">
-      <node ref="JIB1" pin="7" pinfunction="7" pintype="passive"/>
+    <net code="223" name="Net-(JIB1-Pad9)">
+      <node ref="JIB1" pin="9" pinfunction="9" pintype="passive"/>
       <node ref="UIB1" pin="7" pinfunction="FILTER_7_1" pintype="passive"/>
     </net>
-    <net code="224" name="Net-(JIB1-Pad8)">
-      <node ref="JIB1" pin="8" pinfunction="8" pintype="passive"/>
+    <net code="224" name="Net-(JIB1-Pad10)">
+      <node ref="JIB1" pin="10" pinfunction="10" pintype="passive"/>
       <node ref="UIB1" pin="8" pinfunction="FILTER_8_1" pintype="passive"/>
     </net>
     <net code="225" name="Net-(JMC1-Pad1)">

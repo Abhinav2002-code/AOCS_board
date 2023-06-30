@@ -350,12 +350,6 @@
     (uuid f7616755-f5ac-411e-afa3-308de95771f4)
   )
 
-  (text "Check hmc 1051 \npinout, \nlets keep two test \npoints for the offset strap \n"
-    (at 154.94 76.2 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 253faf63-583d-4ff4-a36d-351b24906890)
-  )
-
   (hierarchical_label "MM_SR3_P" (shape output) (at 81.28 149.86 0)
     (effects (font (size 1.27 1.27) bold italic) (justify left))
     (uuid 0674e6c1-6fb3-4848-b0ec-49ad9c1c7da3)

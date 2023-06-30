@@ -583,6 +583,12 @@
     (uuid fbb63e79-b697-4432-9786-7e15d3136d51)
   )
 
+  (text "A low-ESR ceramic capacitor must be placed in between the VM and VCP pins. TI recommends a value of 1-µF\nrated for 16 V. Place this component as close as possible to the pins."
+    (at 91.44 52.705 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold italic) (justify left bottom))
+    (uuid 4a884642-9c83-4dca-a66e-e62cbd3a76de)
+  )
+
   (label "CS" (at 165.1 93.98 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 017b4212-f908-4f19-95fc-21f61096ac8d)

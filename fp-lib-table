@@ -10,4 +10,6 @@
   (lib (name "M95P32-IXMNT_E")(type "KiCad")(uri "${KIPRJMOD}/LIB_M95P32-IXMNT_E/M95P32-IXMNT_E.pretty")(options "")(descr ""))
   (lib (name "NUF8402MNT4G")(type "KiCad")(uri "${KIPRJMOD}/LIB_NUF8402MNT4G/NUF8402MNT4G.pretty")(options "")(descr ""))
   (lib (name "2367196-8")(type "KiCad")(uri "${KIPRJMOD}/LIB_2367196-8/2367196-8.pretty")(options "")(descr ""))
+  (lib (name "LMV324AQDRQ1")(type "KiCad")(uri "${KIPRJMOD}/LIB_LMV324AQDRQ1/LMV324AQDRQ1.pretty")(options "")(descr ""))
+  (lib (name "MCP3424-E_SL")(type "KiCad")(uri "${KIPRJMOD}/LIB_MCP3424-E_SL/MCP3424-E_SL.pretty")(options "")(descr ""))
 )
