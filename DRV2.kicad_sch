@@ -580,6 +580,10 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold italic) (justify left bottom))
     (uuid 2e29647e-41d0-4bf1-9a38-694998c766a3)
   )
+  (text "0603B105K160XD" (at 102.87 135.89 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ffff2ac0-7a70-40b5-a249-f99a3f8334b0)
+  )
 
   (label "VINT" (at 194.31 81.28 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

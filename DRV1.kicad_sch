@@ -599,6 +599,10 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold italic) (justify left bottom))
     (uuid 89ccb971-9b82-490b-94a1-10c4082b05dc)
   )
+  (text "0603B105K160XD" (at 105.41 148.59 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ac2078c3-6a23-461c-8c55-40784547739a)
+  )
 
   (label "RTRY" (at 173.355 91.44 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))

@@ -583,6 +583,10 @@
     (uuid fbb63e79-b697-4432-9786-7e15d3136d51)
   )
 
+  (text "0603B105K160XD" (at 109.22 140.97 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3610d6d5-0867-414f-80a7-535307b58aa1)
+  )
   (text "A low-ESR ceramic capacitor must be placed in between the VM and VCP pins. TI recommends a value of 1-µF\nrated for 16 V. Place this component as close as possible to the pins."
     (at 91.44 52.705 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold italic) (justify left bottom))
