@@ -3973,9 +3973,6 @@
     (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/8a6624db-709a-4e81-82fa-991cc33e25a5"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/212d50e9-da32-4d3f-8d53-7380f45f0f28/8a7880a5-9012-42cd-a563-53115ab61222"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/85fce53c-db5d-41a5-af86-f02ad1af70e7/c2b51706-9b59-4979-b562-badd0d98848a"
       (reference "CA1") (unit 1) (value "2.2u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
